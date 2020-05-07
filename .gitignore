@@ -1,0 +1,4 @@
+.idea
+/dist/
+/build/
+/restful_jsonapi.egg-info/
