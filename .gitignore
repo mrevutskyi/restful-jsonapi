@@ -2,3 +2,4 @@
 /dist/
 /build/
 /restful_jsonapi.egg-info/
+**__pycache__/

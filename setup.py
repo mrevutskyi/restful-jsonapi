@@ -8,7 +8,7 @@ setuptools.setup(
     author_email="maksym.revutskyi@gmail.com",
     description="A JSON:API builder for SQLAlchemy models",
     url="https://github.com/mrevutskyi/restful-jsonapi",
-    packages=setuptools.find_packages(),
+    packages=setuptools.find_packages(exclude=['demo']),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
